@@ -11,12 +11,11 @@ export default function Banner() {
       <Container sx={styles.banner.container}>
         <Box sx={styles.banner.contentBox}>
           <Heading as="h1" variant="heroPrimary">
-            Top Quality Digital Products To Explore
+            Tcom Quality Digital Service To Explore
           </Heading>
           <Text as="p" variant="heroSecondary">
-            Get your blood tests delivered at let home collect sample from the
-            victory of the managements that supplies best design system
-            guidelines ever.
+            Tasrihatcom is a new digital solution. it's secure by design, and
+            fast, which allows you to save money and time.
           </Text>
           <Button variant="primary">Explore</Button>
         </Box>
